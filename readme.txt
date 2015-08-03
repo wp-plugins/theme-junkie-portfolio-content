@@ -1,5 +1,5 @@
 === Theme Junkie Portfolio Content ===
-Contributors: themejunkie, satrya
+Contributors: themejunkie
 Tags: portfolio, project, post type, custom post type, taxonomy
 Requires at least: 3.6
 Tested up to: 3.9
